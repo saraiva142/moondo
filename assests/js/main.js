@@ -10,6 +10,7 @@ var sickPrimary = {
     prevArrow: $('.prev'),
     nextArrow: $('.next')
 }
+/*Js*/
 
 var sickSecondary = {
     autoplay: true,
